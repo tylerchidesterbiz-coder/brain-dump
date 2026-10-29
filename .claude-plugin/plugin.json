@@ -1,0 +1,1 @@
+{ "name": "brain-dump", "version": "0.1.0", "description": "Turns long rambling messages into a clean brief for the main model, keeping your original words", "license": "MIT", "types": "./types/index.d.ts" }
