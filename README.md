@@ -1,0 +1,2 @@
+# brain-dump
+When you type a long, rambling message (over 150 words by default), a fast model (Haiku) quietly sorts it into a clean brief: Goal, Deliverables, Must not miss, Details, Context & reasons, Questions I asked, Unclear, plus a line saying what was cut as filler. The main model gets your original words plus the brief, and your words win if they disagree. In the chat, the long message folds to a preview with a "Show full dump" button. Settings: `/brain-dump on|off|model haiku|sonnet|opus|limit <words>|status`.
